@@ -1,11 +1,10 @@
 #include<stdio.h>
-//#include<conio.h>
-//#define P printf
+#include<conio.h>
 
 main()
 {
 	int n;
-	//clrscr();
+	clrscr();
 	
 	printf("Press 1 for english\n");
 	printf("Press 2 for hindi\n");
@@ -86,6 +85,6 @@ main()
 			printf("Invalid choice");
 	}
 	
-	//getch();
+	getch();
 	
 }
