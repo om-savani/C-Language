@@ -4,7 +4,7 @@
 main()
 {
 	int s,i,j;
-	//clrscr();
+	clrscr();
 	
 	for(i=1;i<=5;i++)
 	{
