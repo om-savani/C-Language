@@ -30,6 +30,7 @@ main()
 					P("2. for The Conjuring || Prize => 450\n\n");
 					P("Enter your choice : ");
 					scanf("%d",&n);
+					clrscr();
 					
 					switch(n)
 					{
@@ -75,6 +76,7 @@ main()
 					P("2. for Good boys || Prize => 350\n\n");
 					P("Enter your choice : ");
 					scanf("%d",&n);
+					clrscr();
 					
 					switch(n)
 					{
@@ -120,6 +122,7 @@ main()
 					P("2. for The Parasite || Prize => 400\n\n");
 					P("Enter your choice : ");
 					scanf("%d",&n);
+					clrscr();
 					
 					switch(n)
 					{
@@ -181,6 +184,7 @@ main()
 					P("2. for Bhoot || Prize => 450\n\n");
 					P("Enter your choice : ");
 					scanf("%d",&n);
+					clrscr();
 					
 					switch(n)
 					{
@@ -226,6 +230,7 @@ main()
 					P("2. for 3 Idiots || Prize => 350\n\n");
 					P("Enter your choice : ");
 					scanf("%d",&n);
+					clrscr();
 					
 					switch(n)
 					{
@@ -271,6 +276,7 @@ main()
 					P("2. for Ugly || Prize => 400\n\n");
 					P("Enter your choice : ");
 					scanf("%d",&n);
+					clrscr();
 					
 					switch(n)
 					{
@@ -332,6 +338,7 @@ main()
 					P("2. for 13B || Prize => 450\n\n");
 					P("Enter your choice : ");
 					scanf("%d",&n);
+					clrscr();
 					
 					switch(n)
 					{
@@ -377,6 +384,7 @@ main()
 					P("2. for Ready || Prize => 350\n\n");
 					P("Enter your choice : ");
 					scanf("%d",&n);
+					clrscr();
 					
 					switch(n)
 					{
@@ -422,6 +430,7 @@ main()
 					P("2. for The Trap || Prize => 400\n\n");
 					P("Enter your choice : ");
 					scanf("%d",&n);
+					clrscr();
 					
 					switch(n)
 					{
