@@ -13,7 +13,7 @@ void main()
 
 void binary(int n,int x[],int m,int b)
 {
-	int i=0,j;
+	int i=0;
 	while(n!=0)
 	{
 		m = n%2;
@@ -23,9 +23,9 @@ void binary(int n,int x[],int m,int b)
 		i++;
 	}
 	
-	for(j=i-1;j>=0;j--)
+	for(i=i-1;i>=0;i--)
 	{
-			printf("%d",x[j]);	
+			printf("%d",x[i]);	
 	}
 	
 }
