@@ -3,7 +3,7 @@
 #define p printf
 #define s scanf
 
-int main()
+void main()
 {
     FILE *fp;
     int i;
@@ -20,5 +20,5 @@ int main()
     }
     
     fclose(fp);
-    return 0;
+
 }
