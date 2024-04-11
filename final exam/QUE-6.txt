@@ -1,0 +1,10 @@
+
+
+	--FRUIT DETAILS--
+
+NAME		COLOR
+
+----		-----
+
+mango		yellow
+watermellon		green
